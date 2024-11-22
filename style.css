@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #343C56;
+}
+.ada{
+    display: flex;
+    justify-content: center;
+    gap: 84px;
+    margin: 46px;
+    
+}
+.bolla{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+}
+.a{
+    justify-content: center;
+    gap: 200px;
+    display: flex;
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bola{
+    background-color: black;
+    color: white;
+    width: 264px;
+    height: 118px;
+    text-align: center;
+    border-radius: 40px;
+    font-size: 30px;
+    margin: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    background: #61FF00;
+    border: 50px solid red;
+    border-radius: 30px;
+    width: 450px;
+    padding: 25px;
+}
+.x{
+    display: flex;
+    justify-content: space-around;
+}
